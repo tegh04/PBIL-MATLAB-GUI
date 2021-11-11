@@ -13,9 +13,9 @@ The file called "Solutions" contains the cost table. There are 8 concentrators a
 
 ## Algorithm
 
-Steps:\
-1. Create an epoch of sample solutions.\
-2. Work out the cost of each solution.\
-3. Find the sample solution with the lowest cost and meeting constraints.\
-4. Update the probability vector according to the specified learning rate.\
+Steps:
+1. Create an epoch of sample solutions.
+2. Work out the cost of each solution.
+3. Find the sample solution with the lowest cost and meeting constraints.
+4. Update the probability vector according to the specified learning rate.
 5. Repeat the process up till a certain number of epochs.
